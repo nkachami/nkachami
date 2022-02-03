@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkachami
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning and refining my skills in Javascript, React, Redux, and SQL
+- 🌱 I’m currently learning and refining my skills in Javascript, React, and Redux
 - 📫 How to reach me: EMAIL: nickkachami@gmail.com 
 
 <!---
