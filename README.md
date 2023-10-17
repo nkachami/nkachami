@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkachami
 - 👀 I’m interested in full stack development, embedded systems & flutter
-- 🌱 I’m currently learning and refining my skills in Spring Java, Javascript, React, and Redux while simultaneously diving into Embedded System Programming
+- 🌱 I’m currently learning and refining my skills in Spring Java, Javascript, React, and Redux while simultaneously diving ELK Stack
 - 📫 How to reach me: EMAIL: nickkachami@gmail.com 
 
 <!---
